@@ -39,6 +39,11 @@ This booking should cost: `R45 * 3 = R135.00 * 0.75 = 101.25`
 
 This booking should cost: `R45 * 3 = R135.00 * 0.85 = 114.75` 
 
+## Do this
+
 Write **3 unit tests** using Mocha that tests if `bookingCost` function behaves appropriatly.
 
 > **Note:** create 1 `describe` block with 3 `it` blocks.
+
+* Setup mocha in the `index.html` file in this folder.
+* Write the mocha test in `./test/bookings.tests.js` fil e.
