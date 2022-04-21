@@ -1,11 +1,13 @@
 # They write unit tests for this
 
-We created a function called `bookingCost` (in the `bookings.js` file) that takes in a booking request to Kamva's Cattery.
+We created a function called `bookingCost` (in the `bookings.js` file) that takes in a booking requests to Kamva's Cattery. They need this function to help optimize their booking process.
 
-Wednesday check-ins get 25% discount.
-Friday check-ins get a 15% discount.
+**Discounts:**
 
-The daily cost is R45 per day
+* Wednesday check-ins get 25% discount.
+* Friday check-ins get a 15% discount.
+
+The daily cost is `R45` per day.
 
 A booking objects looks like this:
 
@@ -17,7 +19,7 @@ A booking objects looks like this:
 }
 ```
 
-This booking should cost: `R45 * 3 = R135.00`
+This booking should cost: `R45 * 3 = R135.00` and the function should return that if called with this parameter.
 
 ```
 {
@@ -27,7 +29,7 @@ This booking should cost: `R45 * 3 = R135.00`
 }
 ```
 
-This booking should cost: `R45 * 3 = R135.00 * 0.75 = 101.25`
+This booking should cost: `R45 * 3 = R135.00 * 0.75 = 101.25` and the function should return that if called with this parameter.
 
 ```
 {
@@ -37,7 +39,7 @@ This booking should cost: `R45 * 3 = R135.00 * 0.75 = 101.25`
 }
 ```
 
-This booking should cost: `R45 * 3 = R135.00 * 0.85 = 114.75` 
+This booking should cost: `R45 * 3 = R135.00 * 0.85 = 114.75` and the function should return that if called with this parameter.
 
 ## Do this
 
