@@ -1,4 +1,4 @@
-# They write unit tests for this
+# Tests the bookingCost function
 
 We created a function called `bookingCost` (in the `bookings.js` file) that takes in a booking requests to Kamva's Cattery. They need this function to help optimize their booking process.
 
