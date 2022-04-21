@@ -1,6 +1,6 @@
 # They write unit tests for this
 
-We created a function called `bookingCost` that takes in a booking request to Kamva's Cattery.
+We created a function called `bookingCost` (in the `bookings.js` file) that takes in a booking request to Kamva's Cattery.
 
 Wednesday check-ins get 25% discount.
 Friday check-ins get a 15% discount.
