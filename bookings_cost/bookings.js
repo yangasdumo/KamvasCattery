@@ -11,10 +11,3 @@ function bookingCost(booking) {
     return bookingCost * discountFactor
 
 }
-
-// R45 * 3 = R135.00
-//   const booking = {
-//     check_in_day: 'Wednesday',
-//     duration: 3,
-//     cat_name: 'Snowy'
-// }
