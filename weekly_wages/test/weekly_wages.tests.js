@@ -18,11 +18,7 @@ describe('Weekly booking', function () {
 
     });
 
-    it("should return 'missing day' string if there are less than 7 entries in the string for any band 'A'", function () {
-
-        assert.equal("missing day", weeklyWage('A', '0,3,4,4,4,6'));
-
-    });
+    
 
     it("should return 'missing day' string if there are less than 7 entries in the string for any band 'B'", function () {
 
@@ -30,9 +26,7 @@ describe('Weekly booking', function () {
 
     });
 
-    it("should return 'missing day' string if there are less than 7 entries in the string for any band C'", function () {
-
-        assert.equal("missing day", weeklyWage('C', '3,4,4,4,6'));
-
+    it("should return 0 if the band is not A, B or C with valid'", function () { 
+        assert.equal(0, weeklyWage('D', '3,4,4,4,6,0,3'));
     });
 });
