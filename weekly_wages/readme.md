@@ -1,6 +1,6 @@
 # Create a weeklyWage function
 
-Create the `weeklyWage` function that calculates the weekly wages for workers at the Kamva's cattery. It takes in a list of daily hours worked and needs **7 entries** in the timesheet comma delimited parameter. If not the functions returns 'missing days'. If all the days are specified the weekly wage is returned for the specified parameters.
+Create the `weeklyWage` function (in the `weekly_wages.js` file) that calculates the weekly wages for workers at the Kamva's cattery. It takes in a list of daily hours worked and needs **7 entries** in the timesheet comma delimited parameter. If not the functions returns 'missing days'. If all the days are specified the weekly wage is returned for the specified parameters.
 
 There are three user bands `A`, `B` & `C` each with a different hourly rate.
 
