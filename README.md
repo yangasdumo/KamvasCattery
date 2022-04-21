@@ -12,3 +12,5 @@ Help them:
 Clone and fork this repo and do the above tasks.
 
 Commit your work to GitHub once doen and email `mentors@projectcodex.co` by 16h00 latest.
+
+Send your GitHub Pages link and the link to your GitHub repository.
