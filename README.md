@@ -10,6 +10,6 @@ Help them:
 
 Clone and fork this repo and do the above tasks.
 
-Commit your work to GitHub once doen and email `mentors@projectcodex.co` by 16h00 latest.
+Commit your work to GitHub once doen and email `mentors@projectcodex.co` by **16h00** latest on Friday 22 April 2022.
 
-Send your GitHub Pages link and the link to your GitHub repository.
+Send your *GitHub Pages* URL and the URL to your *GitHub repository* .
