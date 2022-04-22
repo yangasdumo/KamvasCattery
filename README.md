@@ -10,6 +10,10 @@ Help them:
 
 Clone and fork this repo and do the above tasks.
 
-Commit your work to GitHub once doen and email `mentors@projectcodex.co` by **16h00** latest on Friday 22 April 2022.
+Please be sure to commit to git locally regularly. Only push to GitHub after **14h00** at the earliest.
+
+Commit your work to GitHub once done and email `mentors@projectcodex.co` by **16h00** latest on Friday 22 April 2022.
 
 Send your *GitHub Pages* URL and the URL to your *GitHub repository* .
+
+If you are working remotely and you are experience load shedding please let us know in advance.
