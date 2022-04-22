@@ -6,8 +6,7 @@ Help them:
 
 * to create a [responsive landing](./responsive_landing) page,
 * by creating a test for their [bookingCost](./bookings_cost) function,
-* create a function to help them to pay [weekly wages](./weekly_wages).
-
+* and by creating a function to help them to pay [weekly wages](./weekly_wages).
 
 Clone and fork this repo and do the above tasks.
 
