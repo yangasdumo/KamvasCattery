@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+}
+
+.three-kittie img{
+    align-items: center;
+    gap: 20px;
+    width: 100px;
+    height: 100px;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.three-kittie img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:15em;
+    height:15em;
+  }
+  .kitten img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:15em;
+    height:15em;
+  }  
+  img {
+    display: inline-block;
+    margin: 25px 10px;
+  }
+.two-cats{
+    display: flex;
+    /* float: left; */
+    /* margin-left: 20px;
+    row-gap: 20px; */
+}
+.kats{
+    float: left;
+
+}
+@media screen and(max-width:680px){
+    .container{
+        width: 100%;
+    }
+    .kitten img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
