@@ -6,7 +6,10 @@
 .header{
     text-align: center;
 }
-
+.heading{
+    text-align: center;
+    font-size: 20px;
+}
 .three-kittie img{
     align-items: center;
     gap: 20px;
@@ -21,10 +24,13 @@ h2{
     text-align: center;
     font-size: 40px;
 }
+.content{
+width: 100%;
+}
 .three-kittie img {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    /* margin-right: auto; */
     width:15em;
     height:15em;
   }
@@ -47,7 +53,11 @@ h2{
 }
 .kats{
     float: left;
-
+    padding-right: 15px;
+}
+.ending{
+    text-align: center;
+    font-size: 20px;
 }
 @media screen and(max-width:680px){
     .container{
@@ -59,3 +69,22 @@ h2{
     }
 }
 
+@media screen and (min-width: 780px){
+    .top-container{
+        display: flex;
+    }
+    .top-container p{
+        max-width: 500px;
+        margin: 5px;
+    }
+    .desc-content{
+        width: 350px;
+    }
+    img{
+     float: left;
+     padding:20px;
+    }
+    .kats img{
+        float:left;
+    }
+}
